@@ -1,4 +1,4 @@
-# simpleproject-HeightConverter
+# Height Converter
 - Basic HTML, CSS and JavaScript
 - Simple height converter Feet convert to CM
 
